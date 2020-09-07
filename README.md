@@ -1,6 +1,6 @@
 # How-to-be-a-Successful-Data-Scientist
 using 2018 Kaggle ML &amp; DS Survey Dataset  
-from. Statistical Data Science 2020  
+from. Statistical Data Science I, Korea University, 2020  
   
   
 This project is trying to capture the practical traits of honorable data scientists by examining the survey data obtained by 23,859 users of online data science community 'Kaggle'.  
